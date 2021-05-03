@@ -1,2 +1,2 @@
-# streamlit_apps
+#Streamlit Apps
 This repository contains stream lit applications
